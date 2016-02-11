@@ -1,0 +1,45 @@
+_repo: Sammtliche-Werke-4-Mirgorod-Gutsbesitzer-der-alten-Zeit-Tara0xdf-Bulba-Wij-Wie-Iwan-Iwanowits__49576
+contributor:
+  creator:
+    editor:
+      agent_name: Buek, Otto
+      gutenberg_agent_id: '45416'
+      url: http://www.gutenberg.org/2009/agents/45416
+  translators:
+  - agent_name: König, Charlotte
+    gutenberg_agent_id: '45417'
+    url: http://www.gutenberg.org/2009/agents/45417
+  - agent_name: Bugow, S.
+    gutenberg_agent_id: '45419'
+    url: http://www.gutenberg.org/2009/agents/45419
+  - agent_name: Chmelnitzky, Eugenie
+    gutenberg_agent_id: '45418'
+    url: http://www.gutenberg.org/2009/agents/45418
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolay Vasilyevich
+    - Гоголь, Николай Васильевич
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+description: ''
+gutenberg_issued: '2015-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49576'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Sämmtliche Werke 4: Mirgorod
+
+  Gutsbesitzer der alten Zeit / Taraß Bulba / Wij / Wie Iwan
+
+  Iwanowitsch und Iwan Nikiforowitsch sich entzweiten / Die
+
+  Equipage'
+url: http://www.gutenberg.org/ebooks/49576
